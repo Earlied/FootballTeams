@@ -1,0 +1,2 @@
+C:\Users\Лучано\source\repos\FootballTeams\FootballTeams.DAL\obj\Debug\FootballTeams.DAL.csprojAssemblyReference.cache
+C:\Users\Лучано\source\repos\FootballTeams\FootballTeams.DAL\obj\Debug\FootballTeams.DAL.csproj.CoreCompileInputs.cache
